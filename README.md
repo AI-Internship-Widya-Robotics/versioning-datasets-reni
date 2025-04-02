@@ -16,7 +16,8 @@ asdp classification is a dataset repository for the classification of 12 vehicle
 
 ### ASDP Classification
 
-| Version | Tag    | Attributes                          | Description             |
-| ------- | ------ | ----------------------------------- | ----------------------- |
-| v1.1    | `v1.1` | ![image](./assets/vehicle-v1.1.jpg) | Add TASK #533 #508      |
-| v1.2    | `v1.2` | ![image](./assets/vehicle-v1.2.jpg) | Add TASK #533 #508 #559 |
+| Version | Tag    | Attributes                          | Description                                           |
+| ------- | ------ | ----------------------------------- | ----------------------------------------------------- |
+| v1.1    | `v1.1` | ![image](./assets/vehicle-v1.1.jpg) | Add TASK #533 #508                                    |
+| v1.2    | `v1.2` | ![image](./assets/vehicle-v1.2.jpg) | Add TASK #533 #508 #559                               |
+| v1.3    | `v1.3` | ![image](./assets/vehicle-v1.3.jpg) | Add TASK #533 #508 #559 #563 #564 #567 #572 #573 #574 |
